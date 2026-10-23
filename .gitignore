@@ -1,0 +1,5 @@
+data/*.csv
+outputs/
+__pycache__/
+.mplconfig/
+.DS_Store
